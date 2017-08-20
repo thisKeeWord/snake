@@ -1,0 +1,26 @@
+#head {
+	background: black;
+	height: 50px;
+	width: 50px;
+	position: absolute;
+	background-color: green;
+}
+#body {
+  background: black;
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  background-color: green;
+}
+#board {
+	height: 700px;
+	width: 700px;
+	border: 1px black solid;
+	margin: 0px;
+}
+#apple {
+	position: absolute;
+	height: 50px;
+	width: 50px;
+}
+

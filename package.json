@@ -1,0 +1,6 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "Snake game",
+  "main": "index.js"
+}
